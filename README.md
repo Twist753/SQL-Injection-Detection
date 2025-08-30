@@ -13,7 +13,7 @@ The final model, a **Logistic Regression** classifier, achieved excellent perfor
 * **Precision (Malicious)**: **1.00** (When it predicts an attack, it's always correct)
 * **Recall (Malicious)**: **0.94** (It successfully identifies 94% of all actual attacks)
 
-<img src="https://i.imgur.com/39J6EwY.png" alt="Confusion Matrix" width="450"/>
+<img width="813" height="869" alt="image" src="https://github.com/user-attachments/assets/47d5e80b-3758-45b9-be17-bbc1c52c8d0e" />
 
 These results indicate a highly effective and reliable model for identifying SQLi threats, with a very low rate of false alarms.
 
